@@ -1,5 +1,9 @@
+
 # ruby-prawn-random-showcase
-Showcase of Strange or Artistic things that Ruby/Prawn can do in generated a PDF
+
+![sdd](https://img.shields.io/badge/ruby-2.7-red?style=for-the-badge&logo=ruby)
+
+Showcase of Strange or Artistic things that Ruby/Prawn can do in a generated PDF
 
 ---
 ## Installation
@@ -45,8 +49,21 @@ or use a Docker Image [HERE](https://hub.docker.com/_/ruby)
     * Vic Fieger
     * Source: https://www.fontsquirrel.com/fonts/heavy-data
 
+---
+
+### References:
+List of Pages and References
+
+| Page | Reference or Material | Source |
+| :---- | :---- | :---- |
+|Page 000 | Art "User Interface - Sci-Fi HUD" by Anca Albu (Games UI/UX Artist) | [Source](https://albu_ancanicoleta.artstation.com/) |
+|Page 000 | The Mecha Hack RPG Book | [Source](https://absolutetabletop.com/) |
+| Page 001 | Git Cheat Sheet: Commands and Best Practices by RebelLabs | [Source](https://www.jrebel.com/blog/git-cheat-sheet) |
+| Page 002: | Grimoire for the Apprentice Wizard by Oberon Zell-Ravenheart | [Source](https://oberonzell.com/books/) |
+| Page 002: | x86 Assembly Guide | [Source](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) |
 
 ---
 
 ### Generated PDFs:
 * [All Versions HERE](https://www.notion.so/Ruby-Prawn-PDF-Showcase-22a1dc7ede984b48a3c86909dbf93e0d)
+
