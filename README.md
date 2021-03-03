@@ -1,5 +1,5 @@
 
-# ruby-prawn-random-showcase
+# [Ruby Prawn Random Showcase](https://github.com/GabriOliv/ruby-prawn-random-showcase)
 
 ![sdd](https://img.shields.io/badge/ruby-2.7-red?style=for-the-badge&logo=ruby)
 
@@ -65,5 +65,5 @@ List of Pages and References
 ---
 
 ### Generated PDFs:
-* [All Versions HERE](https://www.notion.so/Ruby-Prawn-PDF-Showcase-22a1dc7ede984b48a3c86909dbf93e0d)
+* [All Versions HERE](https://www.notion.so/Ruby-Prawn-PDF-Showcase-761baee30b64499785013664db97678d)
 
