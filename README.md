@@ -1,7 +1,7 @@
 
 # [Ruby Prawn Random Showcase](https://github.com/GabriOliv/ruby-prawn-random-showcase)
 
-![sdd](https://img.shields.io/badge/ruby-2.7-red?style=for-the-badge&logo=ruby)
+[![Ruby Version](https://img.shields.io/badge/ruby-2.7-red?style=for-the-badge&logo=ruby)](https://www.ruby-lang.org/en/)
 
 Showcase of Strange or Artistic things that Ruby/Prawn can do in a generated PDF
 
