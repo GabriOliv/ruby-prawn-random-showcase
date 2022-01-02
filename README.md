@@ -1,69 +1,70 @@
-
 # [Ruby Prawn Random Showcase](https://github.com/GabriOliv/ruby-prawn-random-showcase)
 
-[![Ruby Version](https://img.shields.io/badge/ruby-2.7-red?style=for-the-badge&logo=ruby)](https://www.ruby-lang.org/en/)
+![ruby_version](https://img.shields.io/badge/ruby-2.7-red?style=for-the-badge&logo=ruby)
 
 Showcase of Strange or Artistic things that Ruby/Prawn can do in a generated PDF
 
 ---
+
 ## Installation
-##### 1. Clone the Repository:
-(or Download ZIP [HERE](https://github.com/GabriOliv/ruby-prawn-random-showcase/archive/main.zip))
-```sh
-git clone https://github.com/GabriOliv/ruby-prawn-random-showcase.git
-```
-##### 2. Install Ruby [HERE](https://www.ruby-lang.org/en/documentation/installation/)
-or use a Docker Image [HERE](https://hub.docker.com/_/ruby)
 
-##### 3. Install the dependencies:
-* [**prawn**](https://rubygems.org/gems/prawn/)
-    ```
-    gem install prawn
-    ```
-* [**prawn-svg**](https://rubygems.org/gems/prawn-svg/)
-    ```
-    gem install prawn-svg
-    ```
-* [**prawn-table**](https://rubygems.org/gems/prawn-table/)
-    ```
-    gem install prawn-table
-    ```
+- ##### 1. Install Ruby [HERE](https://www.ruby-lang.org/en/documentation/installation/)
+	or use a Docker Image [HERE](https://hub.docker.com/_/ruby)
 
-##### 4. Generate the .PDF:
-* Example with version 000:
-    ```sh
-    ruby 000_MDG.rb
-    ```
+- ##### 2. Install the dependencies:
+	- [prawn](https://rubygems.org/gems/prawn/)
+		```
+		gem install prawn
+		```
+	- [prawn-svg](https://rubygems.org/gems/prawn-svg/)
+		```
+		gem install prawn-svg
+		```
+	- [prawn-table](https://rubygems.org/gems/prawn-table/)
+		```
+		gem install prawn-table
+		```
+- ##### 3. Clone the Repository:
+	(or Download ZIP [HERE](https://github.com/GabriOliv/ruby-prawn-random-showcase/archive/main.zip))
+	```sh
+	git clone https://github.com/GabriOliv/ruby-prawn-random-showcase.git
+	```
+- ##### 4. Generate the .PDF:
+	Example with version 000: `ruby 000_MDG.rb`
 
 ---
 
 ### Font List:
-* Conspiracy.ttf
-* Conspiracy_Bold.ttf
-* Conspiracy_PR.ttf
-    * Nerfect Type Laboratories
-    * Source: https://www.fontsquirrel.com/fonts/conspiracy
 
-
-* Heavy_Data.ttf
-    * Vic Fieger
-    * Source: https://www.fontsquirrel.com/fonts/heavy-data
+- [Nerfect Type Laboratories](https://www.fontsquirrel.com/fonts/list/foundry/nerfect-type-laboratories)
+	- [Conspiracy](https://www.fontsquirrel.com/fonts/Conspiracy)
+- [Vic Fieger](https://www.fontsquirrel.com/fonts/list/foundry/vic-fieger)
+	- [Heavy Data](https://www.fontsquirrel.com/fonts/Heavy-Data)
+- [Apostrophic Labs](https://www.fontsquirrel.com/fonts/list/foundry/apostrophic-labs)
+	- [Komika Hand](https://www.fontsquirrel.com/fonts/Komika-Hand)
 
 ---
 
 ### References:
+
 List of Pages and References
 
-| Page | Reference or Material | Source |
-| :---- | :---- | :---- |
-|Page 000 | Art "User Interface - Sci-Fi HUD" by Anca Albu (Games UI/UX Artist) | [Source](https://albu_ancanicoleta.artstation.com/) |
-|Page 000 | The Mecha Hack RPG Book | [Source](https://absolutetabletop.com/) |
-| Page 001 | Git Cheat Sheet: Commands and Best Practices by RebelLabs | [Source](https://www.jrebel.com/blog/git-cheat-sheet) |
-| Page 002: | Grimoire for the Apprentice Wizard by Oberon Zell-Ravenheart | [Source](https://oberonzell.com/books/) |
-| Page 002: | x86 Assembly Guide | [Source](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) |
+| Page | References | Source |
+| :---- | :---- | :----: |
+| 000 | Art "User Interface - Sci-Fi HUD"<br>by Anca Albu (Games UI/UX Artist) | [Source](https://albu_ancanicoleta.artstation.com/) |
+| 000 | The Mecha Hack RPG Book | [Source](https://absolutetabletop.com/) |
+| 001 | Git Cheat Sheet: Commands and Best Practices<br>by RebelLabs | [Source](https://www.jrebel.com/blog/git-cheat-sheet) |
+| 002 | Grimoire for the Apprentice Wizard<br>by Oberon Zell-Ravenheart | [Source](https://oberonzell.com/books/) |
+| 002 | x86 Assembly Guide | [Source](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) |
+| 003 | Sin City: The Hard Goodbye, Episode 10, page 2<br>by Frank Miller<br>ISBN: 1-59307-293-7 | [Source](https://www.darkhorse.com/Books/15-626/Frank-Millers-Sin-City-Volume-1-The-Hard-Goodbye-3rd-Edition) |
+| 003 | A brief overview of the Linux directory structure<br>by Peter Roche | [Source](https://medium.com/@pjptech/a-brief-overview-of-the-linux-directory-structure-56ee22e621ce) |
 
 ---
 
-### Generated PDFs:
-* [All Versions HERE](https://www.notion.so/Ruby-Prawn-PDF-Showcase-761baee30b64499785013664db97678d)
+### Generated Pages:
 
+.PNG images of PDF pages
+
+- [ArtStation Repository](https://www.artstation.com/artwork/nEJy2E)
+
+---
