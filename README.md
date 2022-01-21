@@ -2,7 +2,7 @@
 
 ![ruby_version](https://img.shields.io/badge/ruby-2.7-red?style=for-the-badge&logo=ruby)
 
-Showcase of Strange or Artistic things that Ruby/Prawn can do in a generated PDF
+Showcase of Strange or Artistic things that Ruby with gem Prawn can do in a generated PDF
 
 ---
 
