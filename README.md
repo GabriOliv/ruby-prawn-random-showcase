@@ -58,6 +58,9 @@ List of Pages and References
 | 002 | x86 Assembly Guide | [Source](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) |
 | 003 | Sin City: The Hard Goodbye, Episode 10, page 2<br>by Frank Miller<br>ISBN: 1-59307-293-7 | [Source](https://www.darkhorse.com/Books/15-626/Frank-Millers-Sin-City-Volume-1-The-Hard-Goodbye-3rd-Edition) |
 | 003 | A brief overview of the Linux directory structure<br>by Peter Roche | [Source](https://medium.com/@pjptech/a-brief-overview-of-the-linux-directory-structure-56ee22e621ce) |
+| 004 | Magazine Cover Art<br>by Hung Ping | [Source](https://www.artstation.com/artwork/Xnm233) |
+| 004 | Model Photo<br>by Murat Esibatir | [Source](https://www.pexels.com/photo/provocative-woman-in-high-heels-and-bodysuit-4356093/) |
+| 004 | Languages and Framework referenced:<br>[Gin Go](https://gin-gonic.com/)<br>[Lemon C++](https://lemon.cs.elte.hu/trac/lemon)<br>[Sugar Elixir](https://sugar-framework.github.io/)<br>[Crystal](https://crystal-lang.org/)<br>[Mint Framework](https://www.mint-lang.com/)<br>[Django](https://www.djangoproject.com/)<br>[Ruby on Rails](https://rubyonrails.org/)<br>[Stimulus On Rails](https://github.com/hotwired/stimulus-rails)<br>[BairesDev Top 100 Frameworks](https://www.bairesdev.com/blog/top-100-development-frameworks/) | |
 
 ---
 
