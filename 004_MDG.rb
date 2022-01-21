@@ -646,13 +646,13 @@ end
 Prawn::Document.generate( name_file, :page_size => Page_size, :margin => Page_margin ) do
 	#PDF Structure n Variables
 	#PDF Font Families
-	font_families.update("Heavy_Data" => {:normal => "suport/Heavy_Data.ttf"})
+	font_families.update("Heavy_Data" => {:normal => "support/Heavy_Data.ttf"})
 
-	font_families.update("Conspiracy" => {:normal => "suport/Conspiracy.ttf"})
-	font_families.update("Conspiracy_PR" => {:normal => "suport/Conspiracy_PR.ttf",})
-	font_families.update("Conspiracy_Bold" => {:normal   => "suport/Conspiracy_Bold.ttf",})
+	font_families.update("Conspiracy" => {:normal => "support/Conspiracy.ttf"})
+	font_families.update("Conspiracy_PR" => {:normal => "support/Conspiracy_PR.ttf",})
+	font_families.update("Conspiracy_Bold" => {:normal   => "support/Conspiracy_Bold.ttf",})
 
-	font_families.update("Komika_Hand" => {:normal   => "suport/Komika_Hand.ttf",})
+	font_families.update("Komika_Hand" => {:normal   => "support/Komika_Hand.ttf",})
 
 	font_families.update("Oswald" => {:normal   => "ungit_ref/page 004/Oswald-Regular.ttf",})
 

@@ -289,11 +289,11 @@ end
 Prawn::Document.generate( name_file, :page_size => page_size, :margin => page_margin ) do
     #PDF Structure n Variables
         #PDF Font Families
-        font_families.update("Heavy_Data" => {:normal => "suport/Heavy_Data.ttf"})
+        font_families.update("Heavy_Data" => {:normal => "support/Heavy_Data.ttf"})
 
-        font_families.update("Conspiracy" => {:normal => "suport/Conspiracy.ttf"})
-        font_families.update("Conspiracy_PR" => {:normal => "suport/Conspiracy_PR.ttf",})
-        font_families.update("Conspiracy_Bold" => {:normal   => "suport/Conspiracy_Bold.ttf",})
+        font_families.update("Conspiracy" => {:normal => "support/Conspiracy.ttf"})
+        font_families.update("Conspiracy_PR" => {:normal => "support/Conspiracy_PR.ttf",})
+        font_families.update("Conspiracy_Bold" => {:normal   => "support/Conspiracy_Bold.ttf",})
 
     #Pag Number
             page_number_size = page_margin/2

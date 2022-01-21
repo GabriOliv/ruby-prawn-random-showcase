@@ -42,6 +42,8 @@ Showcase of Strange or Artistic things that Ruby/Prawn can do in a generated PDF
 	- [Heavy Data](https://www.fontsquirrel.com/fonts/Heavy-Data)
 - [Apostrophic Labs](https://www.fontsquirrel.com/fonts/list/foundry/apostrophic-labs)
 	- [Komika Hand](https://www.fontsquirrel.com/fonts/Komika-Hand)
+- [Vernon Adams](https://www.fontsquirrel.com/fonts/list/foundry/vernon-adams)
+	- [Oswald](https://www.fontsquirrel.com/fonts/oswald)
 
 ---
 
