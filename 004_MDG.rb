@@ -654,7 +654,7 @@ Prawn::Document.generate( name_file, :page_size => Page_size, :margin => Page_ma
 
 	font_families.update("Komika_Hand" => {:normal   => "support/Komika_Hand.ttf",})
 
-	font_families.update("Oswald" => {:normal   => "ungit_ref/page 004/Oswald-Regular.ttf",})
+	font_families.update("Oswald" => {:normal   => "support/Oswald-Regular.ttf",})
 
 	#Pag Number
 	page_number_size = Page_margin/2
